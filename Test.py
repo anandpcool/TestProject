@@ -5,3 +5,4 @@ for v in color:
     i=i+1
     print("hi")
     print("hello")
+print("hello")
