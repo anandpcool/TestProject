@@ -4,3 +4,4 @@ for v in color:
     print("when i am",i," my color was ",v)
     i=i+1
     print("hi")
+    print("hello")
